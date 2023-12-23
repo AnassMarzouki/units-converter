@@ -9,13 +9,17 @@ body {
     text-align: center;
     flex-direction: column;
     background-color: rgb(69, 103, 250);
+    width:100%;
+    box-sizing: border-box;
 }
 
 #bottom-block {
-    background-color: rgb(223, 223, 223);
+    background-color: rgb(212, 212, 212);
     padding-top: 20px;
     padding-bottom: 10px;
     text-align: center;
+    width:100%;
+    box-sizing: border-box;
 }
 
 #input-field {
