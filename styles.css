@@ -9,6 +9,7 @@ body {
     text-align: center;
     flex-direction: column;
     background-color: rgb(69, 103, 250);
+    position: absolute;
     width:100%;
     box-sizing: border-box;
 }
@@ -18,6 +19,7 @@ body {
     padding-top: 20px;
     padding-bottom: 10px;
     text-align: center;
+    position: absolute;
     width:100%;
     box-sizing: border-box;
 }
